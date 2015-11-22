@@ -1,0 +1,71 @@
+.outer-container {
+	text-align: center;
+	margin-top: 100px;
+}
+#apDiv4 {
+	position: relative;
+}
+#apDiv4 #questionImg {
+	position: absolute;
+	top: 25% ;
+	left: 37% ;
+}	
+#apDiv6 {
+	position: relative;
+}
+#apDiv6 #close {
+	position: absolute;
+	top: 40% ;
+	left: 48% ;
+}	
+#apDiv4 > img {
+max-width: 660px; 
+}
+#apDiv5 > img {
+max-width: 660px; 
+}
+#apDiv6 > img {
+max-width: 660px; 
+}
+#apDiv7 > img {
+max-width: 660px; 
+}
+#apDiv8 > img {
+max-width: 660px; 
+}
+#apDiv9 > img {
+max-width: 660px; 
+}
+#apDiv10 > img {
+max-width: 660px; 
+}
+#apDiv11> img {
+max-width: 660px; 
+}
+#apDiv12 > img {
+max-width: 660px; 
+}
+#apDiv13 > img {
+max-width: 660px; 
+}
+#apDiv14 > img {
+max-width: 660px; 
+}
+#apDiv15 > img {
+max-width: 660px; 
+}
+#apDiv16> img {
+max-width: 660px; 
+}
+#apDiv17 > img {
+max-width: 660px; 
+}
+#apDiv18 > img {
+max-width: 660px; 
+}
+#apDiv19 > img {
+max-width: 660px; 
+}
+#apDiv20 > img {
+max-width: 660px; 
+}

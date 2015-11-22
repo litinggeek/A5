@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Baymax goes to Superhero Academy</title>
+	
+	<link rel="stylesheet" href="_css/animate.css">
+	<link rel="stylesheet" type="text/css" href="_css/custom-route.css">
+
+	<script type="text/javascript" src="_scripts/jQuery.min.js"></script>
+	<script type="text/javascript" src="_scripts/ion.sound.min.js"></script>
+	<script type="text/javascript" src="_js/wow.min.js"></script>
+
+</head>
+
+<body>
+
+	<div class="outer-container">
+
+		<div id="pubDiv10">
+			<a id="pubLink" href="Pub.html"></a>
+			<a id="pub2Link" href="Academy.html"></a>
+		</div>
+	</div>
+
+<script type="text/javascript">
+	
+	$(document).ready(function(){
+		new WOW().init();
+	
+		$("#pubLink").hover(function(){
+            var src = "_images/59b.jpg"
+			$("#pubDiv10").css({ 'background-image': 'url(' + src + ')' });
+    	}, function(){ 
+        	var src = "_images/59a.jpg"
+			$("#pubDiv10").css({ 'background-image': 'url(' + src + ')' });
+		});
+		$("#pub2Link").hover(function(){
+            var src = "_images/59c.jpg"
+			$("#pubDiv10").css({ 'background-image': 'url(' + src + ')' }); 
+    	}, function(){ 
+        	var src = "_images/59a.jpg"
+			$("#pubDiv10").css({ 'background-image': 'url(' + src + ')' });
+		});
+	
+	
+
+
+	});
+
+</script>
+
+</body>
+</html>
+

@@ -1,0 +1,23 @@
+.outer-container {
+	text-align: center;
+	margin-top: 100px;
+}
+#pubDiv10 {
+	display: inline-block;
+	background: transparent url('../_images/59a.jpg') ;
+}
+
+#pubLink {
+	width: 410px;
+ 	height: 770px;
+ 	display: inline-block;
+}
+#pub2Div11 {
+	display: inline-block;
+}
+
+#pub2Link {
+	width: 410px;
+ 	height: 770px;
+ 	display: inline-block;
+}

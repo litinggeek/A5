@@ -1,0 +1,56 @@
+/* specific CSS for part3.html */
+
+.outer-container {
+	text-align: center;
+	margin-top: 100px;
+}
+#apDiv6 {
+	position: relative;
+}
+
+#apDiv6 #arrowImg {
+	position: absolute;
+	top: 25% ;
+	left: 45% ;
+}	
+#apDiv7 {
+	position: relative;
+}
+#apDiv7 #touchImg {
+	position: absolute;
+	top: 5% ;
+	left: 33% ;
+}	
+#apDiv1 > img {
+max-width: 660px; 
+}
+#apDiv2 > img {
+max-width: 660px; 
+}
+#apDiv3 > img {
+max-width: 660px; 
+}
+#apDiv4 > img {
+max-width: 660px; 
+}
+#apDiv5 > img {
+max-width: 660px; 
+}
+#apDiv6 > img {
+max-width: 660px; 
+}
+#apDiv7 > img {
+max-width: 660px; 
+}
+#apDiv8 > img {
+max-width: 660px; 
+}
+#apDiv9 > img {
+max-width: 660px; 
+}
+#apDiv10 > img {
+max-width: 660px; 
+}
+
+
+

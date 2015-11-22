@@ -1,0 +1,22 @@
+.outer-container {
+	text-align: center;
+	margin-top: 100px;
+}
+
+#apDiv3 {
+	position: relative;
+}
+#apDiv3 #letterImg {
+	position: absolute;
+	top: 53%;
+	left: 50%;
+}	
+#apDiv1 > img {
+max-width: 660px; 
+}
+#apDiv2 > img {
+max-width: 660px; 
+}
+#apDiv3 > img {
+max-width: 660px; 
+}

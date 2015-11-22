@@ -1,0 +1,50 @@
+.outer-container {
+	text-align: center;
+	margin-top: 100px;
+}
+#RobotDiv3 {
+	display: inline-block;
+}
+#RobotLink {
+	width: 280px;
+ 	height: 309px;
+ 	display:block;
+ 	margin-top: 50px;
+ 	background:transparent url('../_images/65c.jpg') center top no-repeat;
+}
+#RobotLink:hover {
+   background-image: url('../_images/65d.jpg');
+}
+#VoldermotDiv4 {
+	display: inline-block;
+}
+#VoldermotLink {
+	width: 280px;
+ 	height: 309px;
+ 	display:block;
+ 	margin-top: 50px;
+ 	background:transparent url('../_images/65e.jpg') center top no-repeat;
+}
+#VoldermotLink:hover {
+   background-image: url('../_images/65f.jpg');
+}
+#apDiv2 {
+	position: relative;
+}
+#apDiv2 #analyze1 {
+	position: absolute;
+	top: 80% ;
+	left: 53% ;
+}	
+#apDiv1 > img {
+max-width: 660px; 
+}
+#apDiv2 > img {
+max-width: 660px; 
+}
+#apRobotDiv3 > img {
+max-width: 660px; 
+}
+#apVoldermotDiv4 > img {
+max-width: 660px; 
+}

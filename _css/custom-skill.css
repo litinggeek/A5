@@ -1,0 +1,64 @@
+/* specific CSS for the home.html */
+
+.outer-container {
+	margin-top: 100px;
+	text-align: center;
+}
+#apDiv20a > img {
+max-width: 660px; 
+}
+#apDiv20e > img {
+max-width: 660px; 
+}
+#apDiv21 > img {
+max-width: 660px; 
+}
+
+#wolverine {
+	display: inline-block;
+}
+
+#wolverineLink {
+ 	width: 245px;
+ 	height: 262px;
+ 	display:block;
+ 	background:transparent url('../_images/20b.jpg') center top no-repeat;
+}
+
+#wolverineLink:hover {
+   background-image: url('../_images/20b-2.jpg');
+}
+
+#thor {
+	display: inline-block;
+}
+
+#thorLink {
+ 	width: 225px;
+ 	height: 253px;
+ 	display:block;
+ 	background:transparent url('../_images/20c.jpg') center top no-repeat;
+}
+
+#thorLink:hover {
+   	background-image: url('../_images/20c-2.jpg');
+}
+
+#spiderman {
+	display: inline-block;
+}
+
+#spidermanLink {
+ 	width: 225px;
+ 	height: 253px;
+ 	display:block;
+ 	background:transparent url('../_images/20d.jpg') center top no-repeat;
+}
+
+#spidermanLink:hover {
+   	background-image: url('../_images/20d-2.jpg');
+}
+
+#apDiv20e{
+	margin-top: 70px;
+}
